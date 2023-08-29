@@ -7,3 +7,11 @@ public class IdiomaDoSistema {
         System.out.println(linguagem);
     }
 }
+
+
+/*
+ Idioma utilizado no SO
+Locale idioma = Locale.getDefault();
+System.out.print("O idioma do seu sistema está configurado para: ");
+System.out.println(idioma.getDisplayLanguage());
+*/
